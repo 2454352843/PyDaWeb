@@ -1,0 +1,26 @@
+# packages in environment at E:\Anaconda3.7\envs\PyDa:
+#
+# Name                    Version                   Build  Channel
+asn1crypto                0.24.0                   py36_0    defaults
+ca-certificates           2019.1.23                     0    defaults
+certifi                   2019.3.9                 py36_0    defaults
+cffi                      1.12.3           py36h7a1dbc1_0    defaults
+cryptography              2.6.1            py36h7a1dbc1_0    defaults
+django                    2.1.7                    py36_0    defaults
+django-ranged-response    0.2.0                    pypi_0    pypi
+django-simple-captcha     0.5.11                   pypi_0    pypi
+idna                      2.8                      py36_0    defaults
+openssl                   1.1.1b               he774522_1    defaults
+pillow                    6.0.0                    pypi_0    pypi
+pip                       19.1.1                   py36_0    defaults
+pycparser                 2.19                     py36_0    defaults
+pymysql                   0.9.3                    py36_0    defaults
+python                    3.6.8                h9f7ef89_7    defaults
+pytz                      2019.1                     py_0    defaults
+setuptools                41.0.1                   py36_0    defaults
+six                       1.12.0                   py36_0    defaults
+sqlite                    3.28.0               he774522_0    defaults
+vc                        14.1                 h0510ff6_4    defaults
+vs2015_runtime            14.15.26706          h3a45250_4    defaults
+wheel                     0.33.4                   py36_0    defaults
+wincertstore              0.2              py36h7fe50ca_0    defaults
